@@ -1,0 +1,40 @@
+.Parent{
+    width: 600px;
+    height: 600px;
+    border: 4px solid black;
+    position: relative;
+}
+#Child1{
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+#Child2{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+#Child3{
+    width: 200px;
+    height: 200px;
+    background-color:palevioletred;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+#Child4{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    top: 0px;
+}

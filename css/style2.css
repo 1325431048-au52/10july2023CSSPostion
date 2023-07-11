@@ -1,0 +1,12 @@
+div.Parent{
+   flex-wrap: wrap;
+   display: flex;
+   background-color: red;
+   padding: 10px;
+}
+div.c{
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    margin: 20px;
+}
